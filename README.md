@@ -2,7 +2,9 @@
 
 ![Home Screen](./images/cover.png)
 
-[See Application here](https://quiz-app-3questions.herokuapp.com/highscores.html)
+> Run Application
+>
+> > [[Here]](https://quiz-app-3questions.herokuapp.com/)
 
 # Resources
 
@@ -40,6 +42,8 @@
 - [Array For Each](https://www.w3schools.com/jsref/jsref_foreach.asp)
 
 - [Create a CSS Loader](https://www.w3schools.com/howto/howto_css_loader.asp)
+
+- [Mark Down Guide](https://www.markdownguide.org/)
 
 ## Setup Notes
 
