@@ -54,15 +54,17 @@ Now, commit and push these two new files to your repository. You can also use th
 
 ## Git commands
 
-> git init QuizApp
-> cd QuizApp
-> git pull https://github.com/billjenner/QuizApp.git
+- > git init QuizApp
+- > cd QuizApp
+- > git pull https://github.com/billjenner/QuizApp.git
+- > git remote add origin https://github.com/billjenner/QuizApp.git
+- > git push origin master
 
-> heroku login
-> heroku git:remote -a quiz-app-3questions
-> git branch -r
-> git show-ref
-> git push Heroku master
+- > heroku login
+- > heroku git:remote -a quiz-app-3questions
+- > git branch -r
+- > git show-ref
+- > git push Heroku master
 
 ### Debug local Storage
 
