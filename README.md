@@ -2,6 +2,8 @@
 
 ![Home Screen](./images/cover.png)
 
+![Running Application](https://quiz-app-3questions.herokuapp.com/highscores.html)
+
 # Resources
 
 - [Emmet in Visual Studio Code](https://www.youtube.com/watch?v=5guZjNDcVnA)
@@ -39,7 +41,28 @@
 
 - [Create a CSS Loader](https://www.w3schools.com/howto/howto_css_loader.asp)
 
-## Notes
+## Setup Notes
+
+To run in Heroku HTML must be associated with a build
+
+> touch composer.json
+> add the following line: {}
+> touch index.php
+> add the following line: : <?php include_once("index.html"); ?>
+
+Now, commit and push these two new files to your repository. You can also use the Heroku command git push heroku master
+
+## Git commands
+
+> git init QuizApp
+> cd QuizApp
+> git pull https://github.com/billjenner/QuizApp.git
+
+> heroku login
+> heroku git:remote -a quiz-app-3questions
+> git branch -r
+> git show-ref
+> git push Heroku master
 
 ### Debug local Storage
 
