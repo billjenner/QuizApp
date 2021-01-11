@@ -2,7 +2,7 @@
 
 ![Home Screen](./images/cover.png)
 
-![Running Application](https://quiz-app-3questions.herokuapp.com/highscores.html)
+[See Application here](https://quiz-app-3questions.herokuapp.com/highscores.html)
 
 # Resources
 
