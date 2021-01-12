@@ -1,10 +1,10 @@
 # Quiz Game based on classic HTML, CSS, and Javascript
 
-![Home Screen](./images/cover.png)
-
 > Run Application
 >
 > > [[Here]](https://quiz-app-3questions.herokuapp.com/)
+
+![Home Screen](./images/cover.png)
 
 # Resources
 
